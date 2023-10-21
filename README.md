@@ -27,6 +27,6 @@ Sobre mí:
 
 Si estás interesad@ en compartir o conectar para algún proyecto u oportunidad laboral, contáctame.
 
-<a href="https://www.linkedin.com/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="30"></img></a>
+<a href="https://www.linkedin.com/in/andrea-ruelas-rodriguez-959308297/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="30"></img></a>
 
 © 2023 malinali (Programa Technolochicas PRO)
